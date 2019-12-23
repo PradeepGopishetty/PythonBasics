@@ -1,0 +1,4 @@
+#How to define varaible: ## In R we can assign in ''=' or '<-' but here we have only '='
+x = 5
+print(type(x))
+print(x)
